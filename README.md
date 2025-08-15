@@ -2,8 +2,6 @@
 
 A professional, secure, and customizable **Password Generator** with options for uppercase, lowercase, numbers, symbols, and adjustable length. Includes a one-click copy feature and a real-time strength meter.  
 
-![demo](./assets/screenshot.png)
-
 ---
 
 ## ✨ Features
