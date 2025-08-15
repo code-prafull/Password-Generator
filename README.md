@@ -5,7 +5,7 @@ A fast, customizable **Password Generator** with upper/lowercase, numbers, symbo
 ---
 
 ## ✨ Features
-- Choose **length** (e.g., 4–64)
+- Choose **length** (e.g., 1-20)
 - Toggle **Uppercase / Lowercase / Numbers / Symbols**
 - One-click **Copy** to clipboard
 - **Avoid similar characters** (0/O, 1/l/I) — 
@@ -14,4 +14,4 @@ A fast, customizable **Password Generator** with upper/lowercase, numbers, symbo
 
 ---
 
-## 🚀 [Live Demo] ()
+## 🚀 [Live Demo] (https://password-generator-rho-flax-83.vercel.app/)
